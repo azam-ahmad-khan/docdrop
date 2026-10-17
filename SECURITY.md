@@ -5,7 +5,7 @@
 If you discover a security vulnerability in DocDrop, **please do not open a public GitHub issue.**
 
 Instead, report it privately by:
-- Opening a [GitHub Security Advisory](https://github.com/token-hoarder/docdrop/security/advisories/new)
+- Opening a [GitHub Security Advisory](https://github.com/azam-ahmad-khan/docdrop/security/advisories/new)
 - Or emailing the maintainer directly (see GitHub profile)
 
 Please include:

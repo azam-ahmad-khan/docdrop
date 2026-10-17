@@ -31,7 +31,7 @@ Convert **PDF, Word, Excel, PowerPoint, images, audio, and more** to clean Markd
 
 **Step 1 — Get the project**
 ```bash
-git clone https://github.com/token-hoarder/docdrop.git
+git clone https://github.com/azam-ahmad-khan/docdrop.git
 cd docdrop
 ```
 
@@ -49,7 +49,7 @@ Your browser will open automatically at **http://127.0.0.1:8000**. Done!
 
 **Step 1 — Get the project**
 ```bat
-git clone https://github.com/token-hoarder/docdrop.git
+git clone https://github.com/azam-ahmad-khan/docdrop.git
 cd docdrop
 ```
 
@@ -173,7 +173,7 @@ Press **`Ctrl + C`** in the terminal where the server is running.
 
 ## 🤝 Contributing
 
-Bug reports and pull requests are welcome! Open an [issue](https://github.com/token-hoarder/docdrop/issues) to get started.
+Bug reports and pull requests are welcome! Open an [issue](https://github.com/azam-ahmad-khan/docdrop/issues) to get started.
 
 ---
 
